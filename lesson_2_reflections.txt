@@ -11,12 +11,14 @@ By adding it one by one
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+You can build up a whole experimental feature without losing the main branch
 
 How do the diagrams help you visualize the branch structure?
 Making it easier to see
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Not sure yet, I'll come back to this later
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
